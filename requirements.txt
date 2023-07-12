@@ -1,0 +1,6 @@
+selenium
+smsactivate
+requests
+pyperclip
+webdriver_manager
+undetected_chromedriver
